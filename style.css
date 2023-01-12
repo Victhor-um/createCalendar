@@ -1,0 +1,12 @@
+table {
+  display: table;
+  box-sizing: border-box;
+  border-spacing: 2px;
+  border-color: gray;
+  border-collapse: collapse;
+}
+td,
+th {
+  border: 1px solid black;
+  vertical-align: inherit;
+}
